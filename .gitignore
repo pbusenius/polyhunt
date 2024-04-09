@@ -54,9 +54,6 @@ coverage.xml
 # Rope
 .ropeproject
 
-# Django stuff:
-*.log
-*.pot
 
 .DS_Store
 
